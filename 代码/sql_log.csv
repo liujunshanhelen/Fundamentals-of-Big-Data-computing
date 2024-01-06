@@ -1,0 +1,3 @@
+query,execution_time
+SELECT * FROM table1 WHERE column1 = value1,2.3
+SELECT column1 FROM table2 WHERE column2 = value2,1.5
